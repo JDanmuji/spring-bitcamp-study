@@ -1,0 +1,6 @@
+package sample02;
+
+public interface MessageBean {
+
+	public void sayHellow(String name); //추상 메서드
+}

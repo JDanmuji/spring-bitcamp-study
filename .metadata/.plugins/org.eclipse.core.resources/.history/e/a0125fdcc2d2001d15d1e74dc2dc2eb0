@@ -1,0 +1,8 @@
+package sample02;
+
+public class MessageBeanKo implements MessageBean {
+	
+	public void sayHello(String name) {
+		//추상 메서드
+	}
+}

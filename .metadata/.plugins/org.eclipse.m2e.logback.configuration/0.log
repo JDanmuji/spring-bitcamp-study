@@ -1,0 +1,149 @@
+2023-04-04 15:23:12,048 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-04 15:29:17,563 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-04 15:52:45,244 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-04 16:36:55,840 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:36:57,175 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:36:57,175 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:36:57,177 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:36:57,177 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:36:57,186 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter01_SpringMaven/src
+2023-04-04 16:36:57,187 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /chapter01_SpringMaven/src/test/java because it overlaps with /chapter01_SpringMaven/src
+2023-04-04 16:36:57,313 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-04 16:36:57,459 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:36:57,649 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter01_SpringMaven/src
+2023-04-04 16:36:57,650 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /chapter01_SpringMaven/src/test/java because it overlaps with /chapter01_SpringMaven/src
+2023-04-04 16:36:57,668 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-04-04 16:36:58,209 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:36:58,210 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:36:58,211 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:36:58,211 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:40:03,537 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:40:03,624 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.pom
+2023-04-04 16:40:03,645 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.pom
+2023-04-04 16:40:03,653 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.pom
+2023-04-04 16:40:03,669 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.pom
+2023-04-04 16:40:03,676 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.pom
+2023-04-04 16:40:03,692 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.pom
+2023-04-04 16:40:03,699 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.pom
+2023-04-04 16:40:03,726 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.pom
+2023-04-04 16:40:03,733 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.pom
+2023-04-04 16:40:03,749 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.pom
+2023-04-04 16:40:03,755 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.pom
+2023-04-04 16:40:03,769 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.pom
+2023-04-04 16:40:03,776 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.jar
+2023-04-04 16:40:03,779 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.jar
+2023-04-04 16:40:03,786 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar
+2023-04-04 16:40:03,786 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar
+2023-04-04 16:40:03,786 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar
+2023-04-04 16:40:03,831 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.jar
+2023-04-04 16:40:03,844 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.jar
+2023-04-04 16:40:03,854 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar
+2023-04-04 16:40:03,865 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar
+2023-04-04 16:40:03,867 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar
+2023-04-04 16:40:03,867 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.jar
+2023-04-04 16:40:03,867 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.jar
+2023-04-04 16:40:05,055 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:05,055 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:40:05,057 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:05,057 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:40:06,007 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23-sources.jar
+2023-04-04 16:40:06,048 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23-sources.jar
+2023-04-04 16:40:06,276 [Worker-21: Download sources and javadoc] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013)
+	at java.base/java.util.ArrayList$Itr.next(ArrayList.java:967)
+	at org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener.notifyListeners(EclipseRepositoryListener.java:56)
+	at org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener.artifactDownloaded(EclipseRepositoryListener.java:43)
+	at org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher.dispatch(DefaultRepositoryEventDispatcher.java:121)
+	at org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher.dispatch(DefaultRepositoryEventDispatcher.java:90)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.artifactDownloaded(DefaultArtifactResolver.java:693)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:636)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:524)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:401)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:207)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:781)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-04 16:40:06,277 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.23
+2023-04-04 16:40:06,299 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23-sources.jar
+2023-04-04 16:40:06,300 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:40:06,331 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23-sources.jar
+2023-04-04 16:40:06,493 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.23
+2023-04-04 16:40:06,515 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23-sources.jar
+2023-04-04 16:40:06,546 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23-sources.jar
+2023-04-04 16:40:06,637 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.23
+2023-04-04 16:40:06,654 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23-sources.jar
+2023-04-04 16:40:06,690 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:06,690 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:40:06,691 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:06,692 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:40:06,692 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23-sources.jar
+2023-04-04 16:40:06,817 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.23
+2023-04-04 16:40:06,832 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23-sources.jar
+2023-04-04 16:40:06,881 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23-sources.jar
+2023-04-04 16:40:07,061 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.23
+2023-04-04 16:40:07,081 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23-sources.jar
+2023-04-04 16:40:07,117 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23-sources.jar
+2023-04-04 16:40:07,246 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.23
+2023-04-04 16:40:07,799 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:07,799 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:40:07,800 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:07,800 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:40:08,907 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:40:09,091 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:09,091 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:40:09,093 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:40:09,093 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:41:26,354 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2023-04-04 16:41:26,372 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2023-04-04 16:41:26,377 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2023-04-04 16:41:26,396 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2023-04-04 16:41:26,403 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2023-04-04 16:41:26,414 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2023-04-04 16:41:26,552 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:41:26,757 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:26,757 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:41:26,759 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:26,759 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:41:27,786 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2023-04-04 16:41:27,804 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2023-04-04 16:41:27,996 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:27,997 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:41:27,997 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:27,997 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:41:28,018 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2023-04-04 16:41:29,112 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:41:29,474 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:29,474 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:41:29,475 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:29,476 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 16:41:30,692 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chapter01_SpringMaven:chapter01_SpringMaven:0.0.1-SNAPSHOT @ E:\Spring\workspace\chapter01_SpringMaven\pom.xml.
+2023-04-04 16:41:30,895 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:30,895 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 16:41:30,896 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 16:41:30,896 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 17:24:00,129 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 17:24:00,130 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 17:24:00,131 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 17:24:00,132 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 17:29:43,703 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 17:29:43,704 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\main\resources
+2023-04-04 17:29:43,704 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 17:29:43,705 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring\workspace\chapter01_SpringMaven\src\test\resources
+2023-04-04 17:30:09,482 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
