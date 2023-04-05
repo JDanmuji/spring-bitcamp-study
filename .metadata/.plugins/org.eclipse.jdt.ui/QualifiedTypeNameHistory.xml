@@ -3,4 +3,13 @@
     <fullyQualifiedTypeName name="sample01.MessageBean"/>
     <fullyQualifiedTypeName name="sample02.MessageBean"/>
     <fullyQualifiedTypeName name="sample02.MessageBeanKo"/>
+    <fullyQualifiedTypeName name="sample03.MessageBeanKo"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.FileSystemXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="sample04.Calc"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+    <fullyQualifiedTypeName name="sample05.SungJuk"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 </qualifiedTypeNameHistroy>
