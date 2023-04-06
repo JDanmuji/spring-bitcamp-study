@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="sample01.MessageBean"/>
     <fullyQualifiedTypeName name="sample02.MessageBean"/>
     <fullyQualifiedTypeName name="sample02.MessageBeanKo"/>
     <fullyQualifiedTypeName name="sample03.MessageBeanKo"/>
@@ -9,7 +8,34 @@
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="sample04.Calc"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+    <fullyQualifiedTypeName name="sample01.MessageBean"/>
+    <fullyQualifiedTypeName name="java.beans.ConstructorProperties"/>
+    <fullyQualifiedTypeName name="javax.management.ConstructorParameters"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="org.springframework.lang.Nullable"/>
+    <fullyQualifiedTypeName name="sample03.SungJuk"/>
+    <fullyQualifiedTypeName name="sample03.SungJukDTO"/>
+    <fullyQualifiedTypeName name="sample03.SungJukImpl"/>
     <fullyQualifiedTypeName name="sample05.SungJuk"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="lombok.Value"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Configurable"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="sample01.MessageBeanImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="sample02.CalcAdd"/>
+    <fullyQualifiedTypeName name="sample02.CalcMul"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="sample04.SungJuk"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="lombok.RequiredArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NonNull"/>
+    <fullyQualifiedTypeName name="sample04.SungJukDTO2"/>
+    <fullyQualifiedTypeName name="sample04.HelloSpring"/>
+    <fullyQualifiedTypeName name="sample04_teacher.SungJuk"/>
+    <fullyQualifiedTypeName name="sample04_teacher.SungJukInput"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
 </qualifiedTypeNameHistroy>
