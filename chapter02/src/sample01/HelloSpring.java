@@ -7,8 +7,8 @@ public class HelloSpring {
 
 	public static void main(String[] args) {
 		
-		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml"); MessageBean
-		messageBean = (MessageBean) context.getBean("messageBeanImpl");
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml"); 
+		MessageBean messageBean = (MessageBean) context.getBean("messageBeanImpl");
 		
 		messageBean.sayHello();
 		

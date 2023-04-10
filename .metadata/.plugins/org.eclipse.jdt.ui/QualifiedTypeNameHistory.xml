@@ -3,9 +3,7 @@
     <fullyQualifiedTypeName name="sample02.MessageBean"/>
     <fullyQualifiedTypeName name="sample02.MessageBeanKo"/>
     <fullyQualifiedTypeName name="sample03.MessageBeanKo"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.FileSystemXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="sample04.Calc"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
     <fullyQualifiedTypeName name="sample01.MessageBean"/>
@@ -26,7 +24,6 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="sample02.CalcAdd"/>
     <fullyQualifiedTypeName name="sample02.CalcMul"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="sample04.SungJuk"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
@@ -37,5 +34,15 @@
     <fullyQualifiedTypeName name="sample04.HelloSpring"/>
     <fullyQualifiedTypeName name="sample04_teacher.SungJuk"/>
     <fullyQualifiedTypeName name="sample04_teacher.SungJukInput"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource"/>
+    <fullyQualifiedTypeName name="org.springframework.jca.context.ResourceAdapterApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.dao.EmptyResultDataAccessException"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
 </qualifiedTypeNameHistroy>

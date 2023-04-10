@@ -1,8 +1,13 @@
 package sample03;
 
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.Scope;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.stereotype.Component;
 
+
+@Component
+@Scope("prototype")
 public class HelloSpring {
 	static String name;
 	static int ko;
